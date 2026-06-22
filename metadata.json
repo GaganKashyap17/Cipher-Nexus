@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS – AI Cyber Defense System",
+  "description": "High-fidelity futuristic AI-powered cybersecurity and forensic monitoring platform to detect fake registrations, suspicious logins, spam, and bot attacks in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
